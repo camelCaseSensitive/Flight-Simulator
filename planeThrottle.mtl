@@ -1,0 +1,23 @@
+# Blender MTL File: 'Cessna152forp5.blend'
+# Material Count: 2
+
+newmtl CarbTexture
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Pictures\\Memes\\Spring\\carb_texture.jpg
+
+newmtl Metal
+Ns 477.439718
+Ka 1.000000 1.000000 1.000000
+Kd 0.275436 0.275436 0.275436
+Ks 0.948819 0.948819 0.948819
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
